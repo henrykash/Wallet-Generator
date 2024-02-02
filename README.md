@@ -22,6 +22,12 @@ yarn add wallet-generator-v1
 
 ```
 
+## Test
+- To run the tests , use the npm command:
+```bash
+ npm run test
+```
+
 # Usage
 - Below are some examples of how to use the wallet-generator library:
   
